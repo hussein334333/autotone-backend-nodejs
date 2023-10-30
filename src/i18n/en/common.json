@@ -1,0 +1,8 @@
+{
+  "confirmEmail": "Confirm email",
+  "resetPassword": "Reset password",
+  "userRegisterSuccess": "User Successfully Register. Please check your mobile for verification code",
+  "userLoginSuccess": "Please check your mobile for verification code",
+  "userDeletedSuccess": "User Successfully Deleted",
+  "success": "Success!"
+}
